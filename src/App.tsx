@@ -44,6 +44,7 @@ function App() {
           document.title = 'TextUtils - Light Mode'
         }
       }
+      
   return (
     <>
       {/* <Router> */}
